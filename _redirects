@@ -1,1 +1,6 @@
 /posts/* https://tianheg.xyz/posts/:splat 301!
+/tags/* https://tianheg.xyz/tags/:splat 301!
+/resume/ https://tianheg.xyz/resume/ 301!
+/im/ https://tianheg.xyz/im/ 301!
+/now/ https://tianheg.xyz/now/ 301!
+/about/ https://tianheg.xyz/about/ 301!
