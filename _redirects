@@ -1,1 +1,1 @@
-/posts/* https://tianheg.xyz/posts/* 301!
+/posts/* https://tianheg.xyz/posts/:splat 301!
